@@ -1,4 +1,4 @@
-# d3-book
+# d3-book -geojson
 
 These are sample code files to accompany the book “Interactive Data Visualization for the Web, Second Edition” by Scott Murray, published in July 2017 by O’Reilly.
 
